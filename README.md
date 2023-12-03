@@ -1,3 +1,3 @@
-# Segundo Entrega Desafio 2
+# Segunda Entrega Desafio 2
 
 Primeros pasos en aplicacion TODO.
